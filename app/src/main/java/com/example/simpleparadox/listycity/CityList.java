@@ -80,7 +80,7 @@ public class CityList {
 
     public boolean functionThatReturnsTrue()
     {
-        //NOT IMPLEMENTED YET!!!!!!!
-        return false;
+        //Implemented correct functionality
+        return true;
     }
 }
