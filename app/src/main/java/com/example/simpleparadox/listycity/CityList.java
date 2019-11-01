@@ -77,4 +77,10 @@ public class CityList {
     public int countCities() {
         return cities.size();
     }
+
+    public boolean functionThatReturnsTrue()
+    {
+        //Implemented correct functionality
+        return true;
+    }
 }
